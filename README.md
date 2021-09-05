@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Stats](https://github-readme-stats.vercel.app/api?username=Qualia061&show_icons=true&theme=outrun)  
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=Qualia061&layout=compact&show_icons=true&theme=outrun)  
 
 <!--
 **Qualia061/Qualia061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
