@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Stats](https://github-readme-stats.vercel.app/api?username=Qualia061&show_icons=true&theme=outrun)  
+![Stats](https://github-readme-stats.vercel.app/api?username=Qualia061&show_icons=true&theme=outrun&count_private=true)  
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=Qualia061&layout=compact&show_icons=true&theme=outrun)  
 
 <!--
